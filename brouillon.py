@@ -41,4 +41,4 @@ resu=sorted(votes_recus["Ukraine"].items(),key = lambda t : t[1])
 for pays,points in resu:
     print(f'Pays : {pays}.\t Nb de pts : {points} points')
 
-print("version de 15:46 OK simon !")
+print("version de 16:59 le conflit gagne l'ouest !")
